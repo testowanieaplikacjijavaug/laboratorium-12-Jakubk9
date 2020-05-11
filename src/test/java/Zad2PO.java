@@ -5,7 +5,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class Zad2PO {
-    private WebDriver webDriver
+    private WebDriver webDriver;
 
     @FindBy(name = "username")
     private WebElement username;

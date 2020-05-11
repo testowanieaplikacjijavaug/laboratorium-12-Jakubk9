@@ -42,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.Zad2Test">
     <configuration name="Zad1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-12-Jakubk9" />
       <option name="PACKAGE_NAME" value="" />
@@ -52,8 +52,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zad2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="laboratorium-12-Jakubk9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Zad2Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="laboratorium-12-Jakubk9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Zad3Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad3Test.CCSearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="laboratorium-12-Jakubk9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Zad3Test" />
+      <option name="METHOD_NAME" value="CCSearchTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Zad2Test" />
+        <item itemvalue="JUnit.Zad3Test" />
+        <item itemvalue="JUnit.Zad3Test.CCSearchTest" />
         <item itemvalue="JUnit.Zad1Test" />
       </list>
     </recent_temporary>
@@ -68,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589229102537</updated>
-      <workItem from="1589229107532" duration="2443000" />
+      <workItem from="1589229107532" duration="3316000" />
     </task>
     <servers />
   </component>
