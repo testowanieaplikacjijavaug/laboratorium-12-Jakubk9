@@ -25,7 +25,7 @@ public class Zad1Test {
 
     @Test
     public void testTitlePage() {
-        assertEquals("DuckDuckGo — Privacy, simplified.", pageObject.getTitle());
+        assertEquals("DuckDuckGo — Prywatność — jeszcze prostsza.", pageObject.getTitle());
     }
 
     @Test
